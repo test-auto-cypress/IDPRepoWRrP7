@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name:idppipelinetest>
-  description:newDescription>
+  name: idppipelinetest
+  description: newDescription
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
